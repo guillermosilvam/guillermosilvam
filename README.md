@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @guillermosilvam
-- 👀 I’m interested in web development and arduinos
-- 🌱 I’m currently learning html and css
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning tailwind and django
 - 📫 How to reach me guillermosilvam2005@gmail.com
 - ⚡ Fun fact: I like to go to the gym
 
